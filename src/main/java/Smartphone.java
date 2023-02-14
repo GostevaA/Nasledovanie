@@ -1,5 +1,5 @@
-public class Smartphone extends Product{
-protected String vendor;
+public class Smartphone extends Product {
+    protected String vendor;
 
     public String getVendor() {
         return vendor;
